@@ -12,8 +12,8 @@ A Better Goal: Help parents guide their children into great careers.
 
 How: 
 - Build a badass career planning app for parents.
-- Help them match their children's interests with career types.
-- Help them financially plan for any education costs.
-- Help them stay motivated and explore all possibilities.
+- Help parents match their children with careers based on interests.
+- Help them financially plan for education costs.
+- Help them understand the process and requirements for each career.
 
-(97 words)
+(99 words)
