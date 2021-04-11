@@ -42,4 +42,4 @@ function gitwitBusinessOutcome(client) {
   let gitwitSuccess = clientSuccess
   return gitwitSuccess
 }
-//97 words
+// 97 words
