@@ -1,9 +1,9 @@
 # Gitwit Project
 
-This project has 2 files.
+Our client has stated that their goal is to get parents to start saving at least $500 every year for college. Our problem is that our client has handed us a goal which was derived from a misunderstanding of their problem. Misunderstood problems lead to bad goals, poor solutions, and unhappy clients. We must first redefine the client goal by defining the real problem.
 
-The file named gitwitSuccess.js contains 32 words and will explain why it's critical for us to redefine our client's goal.
+Problem: "Kids graduate highschool with no plan for their future."
 
-The file named projectSituation.js contains 64 words and will explain the current situation of the client and what will change if Gitwit is hired to help.
+A Better Goal: "Help parents guide children into great careers."
 
-Both files can be run with node by simply typing "node <filename>" into the console.
+We accomplish this by building a badass career planning app for parents. 
